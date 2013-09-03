@@ -1,5 +1,5 @@
 
-; This makes a polymorphic section - code here can be written to.
+; This makes a RWX section - code here can be written to.
 
 use64
 
